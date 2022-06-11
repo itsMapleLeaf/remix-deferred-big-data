@@ -7,20 +7,20 @@
     "start": "remix-serve build"
   },
   "dependencies": {
-    "@remix-run/node": "deferred",
-    "@remix-run/react": "deferred",
-    "@remix-run/serve": "deferred",
+    "@remix-run/node": "0.0.0-experimental-9784dd06",
+    "@remix-run/react": "0.0.0-experimental-9784dd06",
+    "@remix-run/serve": "0.0.0-experimental-9784dd06",
     "isbot": "^3.5.0",
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   },
   "devDependencies": {
-    "@remix-run/dev": "deferred",
-    "@remix-run/eslint-config": "deferred",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
+    "@remix-run/dev": "0.0.0-experimental-9784dd06",
+    "@remix-run/eslint-config": "0.0.0-experimental-9784dd06",
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
     "eslint": "^8.15.0",
-    "typescript": "latest"
+    "typescript": "^4.7.3"
   },
   "engines": {
     "node": ">=14"
